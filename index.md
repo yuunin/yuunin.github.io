@@ -1,18 +1,18 @@
-> <h1> Prologue  
+> # Prologue  
 
-<h2> 1. Need a place to keep track of what I've been doing 
+## 1. Need a place to keep track of what I've been doing  
 
 I am bad at remembering what I have done in my life. I started twitter because everyone was doing it. But, I didn't have anything to tweet about honestly. So I started using twitter to post some tweets about gaming. Mainly the tweets were about what game I was playing that time. So not really a good tweet to look back on. You only live once so why not a keep a record of it(just like most people take pictures of their meals and post it on twitter and instagram for some reason). I like to play games so it's not gonna be a hard time to keep posting on this blog about it. At least I don't think so. I'm actually interested in seeing how this is gonna turn out. 
 
-<h2> 2. Mainly going to be about games that I'm playing/played   
+## 2. Mainly going to be about games that I'm playing/played   
 
 Writing about games makes me think deeper about that game, making me look at it from perspectives that I've never thought to look. I've played a lot of games, some really good, others not so much. But in the end, it's a pain in the ass when it comes to creating a game from scratch. I know(kind of), I'm a university student who is currently in a game creating club or something like that. So after knowing how much it takes to make a game that functions correctly, has an ending, and makes people interested in buying it, I started appreciating games more than ever. So writing about games and looking back  on some of the games that I've played before.
 
-<h2> 3. [next time]  
+## 3. next time  
 
 ---
 
-<h2> When to move on
+## When to move on
 
 I've noticed a problem that kind of troubles me. **Games these days have no ending.** And new games are being released every year. Which means, I'm not gonna spend a lot of time playing just one game. So when do I move on to the next? The answer I came up with is when I get bored(of course). But most of the time, I need to play every game to the end because I bought it. So, the next thing I came up with is, getting all the trophies/achievements. I like to get trophies, not because I can brag about it but, because trophies are one of the ways to see if you've acquired most of the details that the game is offering to you. I'll talk about this in another section. Another thing I came up with is if I feel that I've played enough then I'll move to the next game. Sort of a vague guideline, but nonetheless a good indication that I should move on. 
 
