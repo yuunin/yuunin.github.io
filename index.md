@@ -34,7 +34,7 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 - [PS4] Call of Duty Black Ops 4     (Realesed on 10/12/2018)
 - [PS4] Death Stranding              
 - [PS4] Last of Us Part 2
-- [Switch] Super Smash Bros Special  
+- [Switch] Super Smash Bros. Ultimate  
 - [PS4] Fallout 76                   (Released on 11/14/2018)
 - [PS4] Kingdom Hearts 3             (Released on 1/25/2019)
 
