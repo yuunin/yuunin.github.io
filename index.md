@@ -5,7 +5,9 @@
 - Other links
 
 ## Profile
-- [![ロゴ](xboxLOGO.jpg)](https://www.xbox.com/ja-JP/)
+[![ロゴ](xboxLOGO.jpg)](https://www.xbox.com/ja-JP/)
+
+
 ## About this blog  
 
 ### 1. Need a place to keep track of what I've been doing  
