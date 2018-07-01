@@ -5,8 +5,9 @@
 - Other links
 
 ## Profile
-[![ロゴ](xboxLOGO.jpg)](https://www.xbox.com/ja-JP/)
+[![xboxロゴ](https://github.com/yuunin/yuunin.github.io/blob/master/xboxLOGO.jpg)](https://www.xbox.com/ja-JP/)  
 
+[![ps4ロゴ]
 
 ## About this blog  
 
