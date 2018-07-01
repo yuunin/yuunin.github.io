@@ -6,12 +6,17 @@
 
 ## Profile
 [<img src="https://github.com/yuunin/yuunin.github.io/blob/master/xbox_PNG.png" width=5%>](https://www.xbox.com/ja-JP/)
+crazyHman
+<br>
+<br>
+[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/playstationLOGO.png" width=5%>](https://www.playstation.com/en-us/)
+xxCrazyHmanxx
 
 ## About this blog  
 
 ### 1. Need a place to keep track of what I've been doing  
 
-I am bad at remembering what I have done in my life. I started twitter because everyone was doing it. But, I didn't have anything to tweet about honestly. So I started using twitter to post some tweets about gaming. Mainly the tweets were about what game I was playing that time. So not really a good tweet to look back on. You only live once so why not a keep a record of it (just like most people take pictures of their meals and post it on twitter and instagram for some reason). I like to play games so it's not gonna be a hard time to keep posting on this blog about it. At least I don't think so. I'm actually interested in seeing how this is gonna turn out. 
+I am bad at remembering what I have done in my life. I started twitter because everyone was doing it. But, I didn't have anything to tweet about honestly. So I started using twitter to post some tweets about gaming. Mainly the tweets were about what game I was playing that time. So not really a good tweet to look back on. You only live once so why not keep a record of it (just like most people take pictures of their meals and post it on twitter and instagram for some reason). I like to play games so it's not gonna be a hard time to keep posting on this blog about it. At least I don't think so. I'm actually interested in seeing how this is gonna turn out. 
 
 ### 2. Mainly going to be about games that I'm playing/played   
 
