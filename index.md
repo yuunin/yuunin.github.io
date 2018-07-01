@@ -5,8 +5,7 @@
 - Other links
 
 ## Profile
-<img src="https://github.com/yuunin/yuunin.github.io/blob/master/xbox_PNG.png" width=5%>
-[![ps4ロゴ]
+[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/xbox_PNG.png" width=5%>](https://www.xbox.com/ja-JP/)
 
 ## About this blog  
 
@@ -52,3 +51,4 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 ---
 
 ## Other links
+Twitter: [ゆーにん@Hpk115.](https://twitter.com/hpk115)
