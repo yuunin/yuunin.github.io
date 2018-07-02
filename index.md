@@ -56,4 +56,6 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 ---
 
 ## Other links
-Twitter: [ゆーにん@Hpk115.](https://twitter.com/hpk115)
+Twitter: [ゆーにん@Hpk115.](https://twitter.com/hpk115)  
+[link to another page](another-page.md)
+
