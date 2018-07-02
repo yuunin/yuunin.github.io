@@ -5,11 +5,11 @@
 - Other links
 
 ## Profile
-[<img src="xbox_PNG.png" width=5%/>](https://www.xbox.com/ja-JP/)
+[<img src="xbox_PNG.png" width="50">](https://www.xbox.com/ja-JP/)
 crazyHman
 <br>
 <br>
-[<img src="playstationLOGO.png" width=5%/>](https://www.playstation.com/en-us/)
+[<img src="playstationLOGO.png" width="50">](https://www.playstation.com/en-us/)
 xxCrazyHmanxx
 
 ## About this blog  
