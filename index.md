@@ -5,11 +5,11 @@
 - Other links
 
 ## Profile
-[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/xbox_PNG.png" width=5%>](https://www.xbox.com/ja-JP/)
+[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/xbox_PNG.png" width=5%/>](https://www.xbox.com/ja-JP/)
 crazyHman
 <br>
 <br>
-[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/playstationLOGO.png" width=5%>](https://www.playstation.com/en-us/)
+[<img src="https://github.com/yuunin/yuunin.github.io/blob/master/playstationLOGO.png" width=5%/>](https://www.playstation.com/en-us/)
 xxCrazyHmanxx
 
 ## About this blog  
