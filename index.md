@@ -36,8 +36,30 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 
 **Games Currently Playing:**  
 - [PS4] Battlefield 1  
+COMING SOON
+
 - [PS4] Kingdom Hearts Re:Chain of Memories  
-- [PS4] Detroit Become Human
+  <details>  
+  <summary>Sora</summary>
+  Play time:                     <br> 
+  - Beginner mode:               <br>
+  - Normal mode:                 <br>
+  - Proud mode: aprox. 28 hours  <br>   
+  </details>
+  
+  <br>
+  
+  <details>  
+  <summary>Riku</summary>
+  Play time:                     <br> 
+  - Beginner mode:               <br>
+  - Normal mode:                 <br>
+  - Proud mode: aprox. 16 hours  <br>   
+  </details>      
+
+
+- [PS4] Detroit Become Human  
+COMING SOON…
 
 **Games that I'm planning to play soon**  
 - [Switch] Fortnite  
@@ -45,17 +67,15 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 - [PS4] Kingdom Hearts Birth by Sleep: Final Mix
 
 **Games that I'm looking forward to**
-- [PS4] Battlefield V                (Released on 10/19/2018)
-- [PS4] Call of Duty Black Ops 4     (Realesed on 10/12/2018)
+- [PS4] Battlefield V (Released on 10/19/2018)
+- [PS4] Call of Duty Black Ops 4 (Realesed on 10/12/2018)
 - [PS4] Death Stranding              
 - [PS4] Last of Us Part 2
 - [Switch] Super Smash Bros. Ultimate  
-- [PS4] Fallout 76                   (Released on 11/14/2018)
-- [PS4] Kingdom Hearts 3             (Released on 1/25/2019)
+- [PS4] Fallout 76 (Released on 11/14/2018)
+- [PS4] Kingdom Hearts 3 (Released on 1/25/2019)  
 
 ---
-
 ## Other links
-Twitter: [ゆーにん@Hpk115.](https://twitter.com/hpk115)  
-[link to another page](another-page.md)
-
+<img src="twitterLOGO.jpg" width="17">[ゆーにん@Hpk115](https://twitter.com/hpk115)  
+youtube account: I'll have one soon…(https://www.youtube.com)
