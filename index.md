@@ -39,14 +39,13 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 COMING SOON
 
 - [PS4] Kingdom Hearts Re:Chain of Memories  
-  <details>  
+<details>
   <summary>Sora</summary>
-  Play time:                     <br> 
-  - Beginner mode:               <br>
+  Play time:                     <br>
+  - Beinner mode:                <br>
   - Normal mode:                 <br>
-  - Proud mode: aprox. 16 hours  <br>   
+  - Proud mode: aprox.28 hours   <br>
   </details>
-  
   <br>
   
   <details>  
