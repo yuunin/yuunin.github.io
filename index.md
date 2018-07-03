@@ -44,7 +44,7 @@ COMING SOON
   Play time:                     <br> 
   - Beginner mode:               <br>
   - Normal mode:                 <br>
-  - Proud mode: aprox. 28 hours  <br>   
+  - Proud mode: aprox. 16 hours  <br>   
   </details>
   
   <br>
@@ -55,9 +55,9 @@ COMING SOON
   - Beginner mode:               <br>
   - Normal mode:                 <br>
   - Proud mode: aprox. 16 hours  <br>   
-  </details>      
-
-
+  </details>  
+  <br>
+  
 - [PS4] Detroit Become Human  
 COMING SOON…
 
