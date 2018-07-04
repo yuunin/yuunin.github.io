@@ -38,13 +38,16 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 - [PS4] Battlefield 1  
 COMING SOON
 
-- [PS4] Kingdom Hearts Re:Chain of Memories  
-<details>
+- [[PS4] Kingdom Hearts Re:Chain of Memories](KH.md)
+  Sequal to the first game Kingdom Hearts. 
+  <details>
   <summary>Sora</summary>
   Play time:                     <br>
   - Beinner mode:                <br>
   - Normal mode:                 <br>
   - Proud mode: aprox.28 hours   <br>
+  <br>
+  
   </details>
   <br>
   
