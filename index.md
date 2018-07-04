@@ -76,5 +76,5 @@ COMING SOON…
 
 ---
 ## Other links
-<img src="twitterLOGO.jpg" width="17">[ゆーにん@Hpk115](https://twitter.com/hpk115)  
+<img src="twitterLOGO.jpg" width="17">[@Hpk115](https://twitter.com/hpk115)  
 [<img src="youtubeLOGO.png" width="30">](https://www.youtube.com) I'll have one soon…
