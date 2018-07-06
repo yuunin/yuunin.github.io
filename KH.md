@@ -1,7 +1,7 @@
-- Opinions
-- Statistics
+- [Opinions](#opinions)
+- [Statistics](#statistics)
 - [Trophies](#trophies) 
-- Screenshots
+- [Screenshots](#screenshots)
 
 ---  
 
