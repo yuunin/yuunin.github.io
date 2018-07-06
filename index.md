@@ -1,8 +1,8 @@
 # Table of Contents
-- Profile
-- About this blog
-- Games 
-- Other links
+- [Profile](#profile)
+- [About this blog](#about-this-blog)
+- [Games](#games)
+- [Other links](#other-links)
 
 ## Profile
 [<img src="xbox_PNG.png" width="50">](https://www.xbox.com/ja-JP/)
@@ -44,19 +44,13 @@ COMING SOON
   
   <details>
   <summary>Sora</summary>
-  Play time:                     <br>
-  - Beinner mode:                <br>
-  - Normal mode:                 <br>
-  - Proud mode: aprox.28 hours   <br>
+  Coming soon…
   </details>
   <br>
   
   <details>  
   <summary>Riku</summary>
-  Play time:                     <br> 
-  - Beginner mode:               <br>
-  - Normal mode:                 <br>
-  - Proud mode: aprox. 16 hours  <br>   
+  Coming soon…   
   </details>  
   <br>
   
