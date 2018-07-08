@@ -38,7 +38,7 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 - [PS4] Battlefield 1  
 COMING SOON
 
-- [[PS4] Kingdom Hearts Re:Chain of Memories](KH.html)  
+- [[PS4] Kingdom Hearts Re:Chain of Memories](KHRe:CoM.html)  
   Sequel to the 1st game of the Kingdom Hearts series and explains the incidents that occured between Kingdom Hearts and Kingdom Hearts 2. It has a unique battle system which uses cards. The main protagonist uses attack, magic, item, and summon cards to fight their way through enemies and recover memories that was once forgotten.  
   
   
