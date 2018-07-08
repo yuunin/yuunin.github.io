@@ -27,6 +27,7 @@ Play time:
 Most trophies can be gained easily or automatically by playing the game until the end. There are some trophies that were kind of annoying and time consuming but overall easy. Here's a list of trophies that were hard/time consuming.  
 <img src="images/PS4trophy_platinum.png" width="50"> <img src="images/KHReCoM_Platinum.png" width="50"> 
 **Chain of Memories Master**  
+<img src="images/PS4trophy_all.jpg" width="20"> 48
 <img src="images/PS4trophy_platinum.png" width="20"> 1 
 <img src="images/PS4trophy_gold.png" width="20"> 2 
 <img src="images/PS4trophy_silver.png" width="20"> 9 
