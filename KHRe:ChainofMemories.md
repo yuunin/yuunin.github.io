@@ -1,3 +1,4 @@
+# Kingdom Hearts Re:Chain of Memories
 - [Opinions](#opinions)
 - [Statistics](#statistics)
 - [Trophies](#trophies) 
