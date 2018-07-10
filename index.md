@@ -6,11 +6,11 @@
 - [Other links](#other-links)
 
 ## Profile
-[<img src="xbox_PNG.png" width="50">](https://www.xbox.com/ja-JP/)
+[<img src="images/xboxLOGO.jpg" width="50">](https://www.xbox.com/ja-JP/)
 crazyHman
 <br>
 <br>
-[<img src="playstationLOGO.png" width="50">](https://www.playstation.com/en-us/)
+[<img src="images/playstationLOGO.png" width="50">](https://www.playstation.com/en-us/)
 xxCrazyHmanxx
 
 ## About this blog  
@@ -27,7 +27,7 @@ Writing about games makes me think deeper about that game, making me look at it 
 
 ### 4. When to move on
 
-I've noticed a problem that kind of troubles me. **Games these days have no ending.** And new games are being released every year. Which means, I'm not gonna spend a lot of time playing just one game. So when do I move on to the next? The answer I came up with is when I get bored(of course). But most of the time, I need to play every game to the end because I bought it. So, the next thing I came up with is, getting all the trophies/achievements. I like to get trophies, not because I can brag about it but, because trophies are one of the ways to see if you've acquired most of the details that the game is offering to you. I'll talk about this in another section. Another thing I came up with is if I feel that I've played enough then I'll move to the next game. Sort of a vague guideline, but nonetheless a good indication that I should move on. 
+I've noticed a problem that kind of troubles me. **Games these days have no ending.** And new games are being released every year. Which means, I'm not gonna spend a lot of time playing just one game. So when do I move on to the next? The answer I came up with is when I get bored(of course). But most of the time, I need to play every game to the end because I bought it. So, the next thing I came up with is, getting all the trophies/achievements. I like to get trophies, not because I can brag about it but, because trophies are one of the ways to see if you've acquired most of the details that the game is offering to you. I'll talk about this in another section. Another thing I came up with is if I feel that I've played enough then I'll move to the next game. Sort of a vague guideline, but nonetheless a good indication for when I should move on. 
 
 ---  
 ---
@@ -36,6 +36,7 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 **Games Currently Playing:**  
 
 - [[PS4] Kingdom Hearts Birth by Sleep](KHBbS.html)
+  The beginning of the first phase of KH, the "Dark Seeker Saga". Introduces 3 protagonists, Aqua, Terra, Ventus(who looks just like Roxas from KH2)
 
   <details>
   <summary>Aqua</summary>
@@ -44,7 +45,7 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
   <br>
   
   <details>  
-  <summary>Tera</summary>
+  <summary>Terra</summary>
   Coming soon…   
   </details>  
   <br>
@@ -93,5 +94,5 @@ COMING SOON…
 
 ---
 ## Other links
-<img src="twitterLOGO.jpg" width="17">[@Hpk115](https://twitter.com/hpk115)  
-[<img src="youtubeLOGO.png" width="30">](https://www.youtube.com) I'll have one soon…
+<img src="images/twitterLOGO.jpg" width="30">[@Hpk115](https://twitter.com/hpk115)  
+[<img src="images/youtubeLOGO.png" width="40">](https://www.youtube.com) I'll have one soon…
