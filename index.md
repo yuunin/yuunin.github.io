@@ -36,7 +36,7 @@ I've noticed a problem that kind of troubles me. **Games these days have no endi
 **Games Currently Playing:**  
 
 - [[PS4] Kingdom Hearts Birth by Sleep](KHBbS.html)
-  The beginning of the first phase of KH, the "Dark Seeker Saga". Introduces 3 protagonists, Aqua, Terra, Ventus(who looks just like Roxas from KH2)
+  The beginning of the first phase of KH, the "Dark Seeker Saga". Introduces 3 protagonists, Aqua, Terra, Ventus(who looks just like Roxas from KH2). This is where it all happened, and BbS offers a lot of information around Xehanort, the keyblade master and also the mastermind who is wanting the Kingdom Hearts himself. While I haven't searched about the stories and timeline(so don't fact check me), I haven't connected the dot from BbS to the birth of Sora and Riku. But I know there's a lot going on under the water. When I complete BbS, I'll write a post about it. But seriously, the one answer that everyone asked for when they first played BbS(again don't fact check me) is, why does Roxas and Ventus look alike. I mean they're literally twins. 
 
   <details>
   <summary>Aqua</summary>
