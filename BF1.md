@@ -1,4 +1,4 @@
-# [PS4]Battlefield 1
+# [PS4] Battlefield 1
 
 - [Opinions](#opinions)
 - [Statistics](#statistics)
@@ -11,6 +11,15 @@ I think the Battlefield series is an all-time best shooting game to play with/wi
 ## Statistics
 
 
-## Trophies
+## Trophies  
+Getting the platinum in BF 1 was just as easy as getting it in other games in the series. And I find the difficulty in Battlefield not that hard even if it's on the hardest mode. So overall, completing the campaign in hard mode was easy. Every campaign has challenges to complete and codex entries to retrieve. Some challenges were hard but most of it was straight forward if you were looking up the strategies along the way. There were online trophies but it was simple and not time consuming. Here are the challenges that were somewhat hard/time consuming.  
+
+<img src="images/PS4trophy_platinum.png" width="50">  
+**World War One Hero**  
+<img src="images/PS4trophy_all.jpg" width="20"> 51
+<img src="images/PS4trophy_platinum.png" width="20"> 1
+<img src="images/PS4trophy_gold.png" width="20"> 10 
+<img src="images/PS4trophy_silver.png" width="20"> 9 
+<img src="images/PS4trophy_bronze.png" width="20"> 31
 
 ## Screenshots
