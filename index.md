@@ -89,8 +89,8 @@ COMING SOON…
   </details>  
   <br>
   
-- [PS4] Battlefield 1  
-  COMING SOON
+- [[PS4] Battlefield 1](BF1.html)
+  
 
 ---
 ## Other links
