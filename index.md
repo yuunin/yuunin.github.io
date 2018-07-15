@@ -90,6 +90,8 @@ COMING SOON…
   <br>
   
 - [[PS4] Battlefield 1](BF1.html)
+
+- [[PS4] Bloodborne](Bloodborne.html)
   
 
 ---
