@@ -4,6 +4,7 @@
 - [Statistics](#statistics)
 - [Trophies](#trophies)
 - [Screenshots](#screenshots)
+- [DLC](#DLC)
 ---
 ## Opinions  
 I think the Battlefield series is an all-time best shooting game to play with/without friends. And I know that people hate when they try to compare COD and BF. But my opinion is, COD demands fast reflexes, precision, and experiences. On the other hand, BF 1 is more about moving as a team and try to capture objectives as a whole. It's literally impossible to survive solo because it's a 32v32 match.  Honestly, everytime I'm playing a match, I don't know half of what's going on around me. But that just makes the game more fun because you can't predict what might happen. And not to mention the campaign, it was impressive. Battlefield always offer such an immersive campaign. I have played BF4 and BF Hardline, and I'm always impressed with how much they put effort in not just multiplayer mode.  
@@ -34,10 +35,18 @@ I believe this challenge is the hardest of all. It took me about 20 or 30 minute
 
 2.<img src="images/PS4trophy_gold.png" width="40"> <img src="images/BF1_EnoughForALibrary.png" width="40"> 
 Enough for a Library  
-
-
-
-
+There are a total of 66 Field Manuels across the 6 chapters that you have to collect in order to achieve this trophy. Just look at a guide and you get this trophy without breaking a sweat. 
 
 
 ## Screenshots
+
+
+## DLC
+
+Battlefield 1™ They Shall Not Pass  
+
+Battlefield 1™ In the Name of the Tsar  
+
+Battlefield 1™ Turning Tides  
+
+Battlefield 1™ Apocalypse  
